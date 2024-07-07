@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Home_Page_Wireframe.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.61989776"
+     inkscape:cx="487.17711"
+     inkscape:cy="376.67502"
+     inkscape:window-width="1312"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#d6aae8;fill-opacity:1;stroke-width:0.902514"
+       id="rect1"
+       width="1119.0327"
+       height="796.94269"
+       x="1.8405155"
+       y="-1.8405118" />
+    <rect
+       style="fill:#ab50d0;fill-opacity:1;stroke-width:1.00157"
+       id="rect2"
+       width="357.05978"
+       height="141.7196"
+       x="360.74081"
+       y="230.0643"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:33.6209px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#ab50d0;fill-opacity:1;stroke-width:2.10461"
+       x="459.68512"
+       y="331.00574"
+       id="text2"
+       transform="scale(0.97922583,1.0212149)"><tspan
+         id="tspan2"
+         x="459.68512"
+         y="331.00574"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.4488px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:2.10461">Title</tspan></text>
+    <rect
+       style="fill:#140719;fill-opacity:1;stroke-width:1.00157"
+       id="rect3"
+       width="522.70605"
+       height="60.736973"
+       x="288.96075"
+       y="403.07266" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.00157"
+       x="390.18906"
+       y="443.56396"
+       id="text3"><tspan
+         id="tspan3"
+         x="390.18906"
+         y="443.56396"
+         style="fill:#f9f9f9">Navigation Bar</tspan></text>
+  </g>
+  <rect
+     style="fill:#f9f9f9;stroke-width:1.00157"
+     id="rect4"
+     width="1045.3336"
+     height="156.47742"
+     x="51.621414"
+     y="45.168739" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:98.3053px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#f9f9f9;stroke-width:2.63732"
+     x="405.14999"
+     y="162.91139"
+     id="text4"
+     transform="scale(1.0636356,0.94017161)"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="405.14999"
+       y="162.91139"
+       style="fill:#000000;stroke-width:2.63732">Flag</tspan></text>
+  <rect
+     style="fill:#000000;stroke-width:1.00157"
+     id="rect5"
+     width="246.8149"
+     height="137.11938"
+     x="138.73256"
+     y="561.38293" />
+  <rect
+     style="fill:#000000;stroke-width:1.00157"
+     id="rect5-3"
+     width="246.8149"
+     height="137.11938"
+     x="744.67511"
+     y="560.9342" />
+  <rect
+     style="fill:#000000;stroke-width:1.00157"
+     id="rect5-3-2"
+     width="246.8149"
+     height="137.11938"
+     x="431.39493"
+     y="484.72836" />
+  <rect
+     style="fill:#000000;stroke-width:1.00157"
+     id="rect5-3-7"
+     width="246.8149"
+     height="137.11938"
+     x="430.35803"
+     y="643.09058" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke-width:1.00157"
+     x="509.76147"
+     y="561.38287"
+     id="text5"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       x="509.76147"
+       y="561.38287"
+       style="fill:#ffffff">KPI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke-width:1.00157"
+     x="504.76282"
+     y="737.91278"
+     id="text5-7"><tspan
+       sodipodi:role="line"
+       id="tspan5-0"
+       x="504.76282"
+       y="737.91278"
+       style="fill:#ffffff">KPI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke-width:1.00157"
+     x="822.33081"
+     y="637.67401"
+     id="text5-7-6"><tspan
+       sodipodi:role="line"
+       id="tspan5-0-5"
+       x="822.33081"
+       y="637.67401"
+       style="fill:#ffffff">KPI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke-width:1.00157"
+     x="219.43747"
+     y="641.04852"
+     id="text5-7-6-9"><tspan
+       sodipodi:role="line"
+       id="tspan5-0-5-1"
+       x="219.43747"
+       y="641.04852"
+       style="fill:#ffffff">KPI</tspan></text>
+</svg>

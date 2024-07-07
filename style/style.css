@@ -1,0 +1,42 @@
+/* Custom CSS to center-align text within the navigation links */
+.navbar-nav {
+    justify-content: center;
+    align-items: center;
+}
+.custom-navbar {
+    height: 40px;
+    width: 38.5%; /* Adjust the width as needed */
+    margin: 0 auto; /* To center-align the navbar horizontally */
+    margin-top: 20px;
+    background-color: #baa4f6 !important; /* Background color for the navbar (blue in this example) */
+    border-radius: 10px;
+}
+.nav-link {
+    color: #fff !important; /* Text color for the navigation links (white in this example) */
+}
+body {
+    background-color: #ebdeff; /* Background color for the entire page (light gray in this example) */
+}
+.container h1{
+    margin-top: 180px; /* Adjust this value to move the text down */
+    font-size: 56px;
+    font-family: Georgia;
+    color: black;
+}
+.container h2{
+    font-size: 45px;
+    font-family: Georgia;
+}
+.container p{
+    font-size: 20px;
+    font-family: Georgia;
+}
+.image-flag {
+    right: 7%; /* Use percentage-based positioning for right */
+    top: 2%; /* Use percentage-based positioning for top */
+    position: absolute;
+    max-width: 86%;
+    height: auto;
+    padding: 10px;
+}
+/* Add any additional CSS rules here */
